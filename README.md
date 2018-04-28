@@ -1,6 +1,6 @@
 # How to install
  - `npm i`
- - download vim
+ - download [vim](https://www.vim.org/download.php)
  - add vim to system PATH env
 
 # Tests
